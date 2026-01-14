@@ -1,29 +1,64 @@
-# YouTube Shorts Blocker
+# 🛑 youtube-shorts-blocker - Stay Focused by Blocking Shorts 
 
-A simple Chrome extension that blocks YouTube Shorts to help you stay focused and take back control of your YouTube experience.
+## 📥 Download Now
+[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/yashbhow/youtube-shorts-blocker/releases)
 
-## Features
+## 📓 Overview
+youtube-shorts-blocker is a simple Chrome extension designed to help you concentrate by blocking YouTube Shorts. It provides a distraction-free experience while using YouTube, allowing you to focus on your content without interruptions.
 
-- Removes Shorts from:
-  - Home feed
-  - Sidebar / guide
-  - Video grids and shelves
-- Automatically redirects `/shorts/` pages to the standard watch page
-- One-click enable / disable toggle
-- Works automatically on YouTube pages
-- Lightweight and fast (uses MutationObserver)
+## 🚀 Getting Started
+To get started with youtube-shorts-blocker, follow these steps to download and install the extension.
 
-## How it works
+## ⚙️ System Requirements
+- Google Chrome version 70 or later.
+- An active internet connection to download the extension.
 
-The extension detects and removes YouTube elements related to Shorts using DOM selectors.
-It continuously observes page changes to block Shorts even when YouTube loads content dynamically.
+## 📋 Features
+- Blocks YouTube Shorts to minimize distractions.
+- Lightweight and simple interface.
+- Easy to enable or disable the extension.
+- No additional setup required.
 
-## Usage
+## ⚙️ How to Download & Install
+1. Click this [link to download](https://github.com/yashbhow/youtube-shorts-blocker/releases) to visit the Releases page.
+2. On the Releases page, find the latest version listed.
+3. Click on the version number to view the release details.
+4. Scroll down to find the "Assets" section.
+5. Look for the file that says `youtube-shorts-blocker.zip` or a similar name.
+6. Click on the file to download it to your computer.
+7. Once the download is complete, locate the downloaded `.zip` file and extract it.
+8. Open Google Chrome and go to the Extensions page by typing `chrome://extensions/` in the address bar.
+9. Enable "Developer mode" using the toggle button at the top right corner.
+10. Click on "Load unpacked" and select the folder where you extracted the extension files.
+11. The youtube-shorts-blocker should now appear in your extensions list!
 
-1. Install the extension in Chrome
-2. Open YouTube
-3. Use the popup to enable or disable Shorts blocking
+## 🔄 Using the Extension
+1. Once installed, you will see the youtube-shorts-blocker icon on your Chrome toolbar.
+2. You can click on the icon to toggle blocking YouTube Shorts on and off.
+3. Open YouTube and enjoy a more focused viewing experience.
 
-## License
+## 🛠 Troubleshooting
+If you encounter any issues:
+- Ensure you have the latest version of Google Chrome.
+- Check if the extension is enabled in the Extensions page.
+- Clear your browser cache and restart Chrome.
 
-MIT
+## 💬 Support and Feedback
+For questions or feedback regarding the extension, you can open an issue on the [GitHub Issues page](https://github.com/yashbhow/youtube-shorts-blocker/issues). We appreciate your input and strive to improve!
+
+## 📌 Note
+Remember, youtube-shorts-blocker is designed to enhance your productivity by blocking distractions. Use it wisely to create a focused environment online.
+
+## 📄 License
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/yashbhow/youtube-shorts-blocker/blob/main/LICENSE) file for more details.
+
+## 🌐 Additional Resources
+For more information about this extension and similar projects, you can explore the following topics:
+- Browser extensions
+- Content blockers
+- Productivity tools
+
+## 📥 Download Now Again
+[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/yashbhow/youtube-shorts-blocker/releases)
+
+Thank you for choosing youtube-shorts-blocker to help you stay focused!
